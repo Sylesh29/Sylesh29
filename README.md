@@ -10,6 +10,7 @@ My projects share one idea: **let the model propose, let deterministic code deci
 | --- | --- | --- |
 | [Voice Agent Eval](https://github.com/Sylesh29/voice-agent-eval) | Evaluation platform for a healthcare voice agent. Scores what actually changed in the world, not what the agent said, and catches false completions an LLM judge cannot see. | Python, FastAPI, Next.js |
 | [ActionGuard](https://github.com/Sylesh29/actionguard) | Deterministic guardrail for a computer use agent in a claims system. Every allow or deny names the rule behind it and lands in a tamper evident trace. | Python |
+| [Patient Voice Tester](https://github.com/Sylesh29/patient-call-tester) | Voice bot that phones an AI medical receptionist as a realistic patient over SIP, then turns 26 real calls into a ranked, evidenced bug report. | LiveKit Agents, Deepgram, Cartesia, OpenAI |
 | [AuditGuard AI](https://github.com/Sylesh29/AuditGuard-AI) | Data integrity triage for manufacturing records. Fixed rules detect and rank problems and propose safe corrections; the LLM only explains. | Python, FastAPI, Claude |
 | [OpsPilot](https://github.com/Sylesh29/OpsPilot) | Incident triage agent that turns a plain English incident report into an auditable change plan backed by runbook evidence. | Python, FastAPI, Langflow, Astra DB |
 | [Fit Score](https://github.com/Sylesh29/fit-score) | Physician match card that shows its own uncertainty: the score, the reasons, and what is still unknown. | Python, FastAPI, Next.js |
